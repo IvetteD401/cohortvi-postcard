@@ -1,0 +1,12 @@
+body {background: black; }
+
+.main {background: white;width: 600px; height: 400px; margin: auto;position: absolute; top: 20%; left: 20%;
+    padding: 20px; font-family: 'Kulim Park', sans-serif;
+}
+.logo {float: right; height: 80px; width: 80px;
+}
+.middle-left {float: left; width: 50%
+}
+.middle-right {float: right; width: 50%
+}
+.middle-right input{display: block;}
